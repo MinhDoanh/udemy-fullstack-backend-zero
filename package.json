@@ -1,0 +1,23 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "HocFullStack",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MinhDoanh/udemy-fullstack-backend-zero.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "MinhDoanh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
